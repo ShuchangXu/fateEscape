@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 03da9e2aaa49f854d987fb48472bfded
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - LookUpRamp: {fileID: 2800000, guid: 6dd851cc3e9533a4e82b64fd14e8b8a9, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

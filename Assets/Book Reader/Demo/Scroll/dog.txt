@@ -1,0 +1,6 @@
+
+/title Dog
+
+/image dog 70
+
+The domestic dog (Canis lupus familiaris) is a canid that is known as man's best friend. The dog was the first domesticated animal and has been widely kept as a working, hunting, and pet companion. In 2001, there were estimated to be 400 million dogs in the world.

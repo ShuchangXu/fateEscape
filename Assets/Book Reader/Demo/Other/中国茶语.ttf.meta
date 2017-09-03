@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3dc40695f7990407da93551eec81f5a1
+timeCreated: 1487165104
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heiti TC
+  fontNames:
+  - Heiti TC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
